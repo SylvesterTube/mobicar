@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985918088111",
+    "project_id": "mobicar-413be",
+    "storage_bucket": "mobicar-413be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985918088111:android:c869d0b17e489579d6455a",
+        "android_client_info": {
+          "package_name": "com.mobicar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985918088111-amufo2lp25u56u6i6d2s3q55ofe075m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYE7DGzW54bhIX3eQ8YuEzCdAbEmf9WSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985918088111-amufo2lp25u56u6i6d2s3q55ofe075m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
